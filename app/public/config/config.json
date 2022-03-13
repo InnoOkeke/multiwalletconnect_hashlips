@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xDe86D126D1647938E64bF79768BE9bFf630EB578",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xde86d126d1647938e64bf79768be9bff630eb578",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Timepiece Ape",
+  "SYMBOL": "Timepiece Ape",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 20000000000000000,
+  "WL_COST": 20000000000000000, 
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 215000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/timepiece-ape-society",
+  "SHOW_BACKGROUND": true
+}
