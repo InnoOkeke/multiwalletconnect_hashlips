@@ -6,7 +6,7 @@ import CoinbaseWalletSDK from "@coinbase/wallet-sdk";
 import WalletConnectProvider from "@walletconnect/web3-provider";
 import { fetchData } from "../data/dataActions";
 
- const  INFURA_ID = "116174764d354240a64cecda70ce8399"
+ const  INFURA_ID = "116174764d354240"
  const providerOptions = {
   walletlink: {
     package: CoinbaseWalletSDK, //coinbase wallet
